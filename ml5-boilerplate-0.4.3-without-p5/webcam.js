@@ -1,3 +1,9 @@
+//작성자 : 서종원
+//email: 3dkids4u@gmail.com
+//ML p5js study
+//3dkids.kr
+//wgfactory.xyz
+
 //  MobileNet을 사용하여 이미지를 클래스화 하기
 let classifier;
 
